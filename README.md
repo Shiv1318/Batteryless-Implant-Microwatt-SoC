@@ -36,7 +36,7 @@ This Project addresses this problem by integrating energy harvesting into the So
 
 • Always-On Operation: Continuous monitoring without frequent battery replacement
 
-# BLOCK DIAGRAM
+# Block Diagram
 
 <img width="1837" height="997" alt="image" src="https://github.com/user-attachments/assets/fcbf5a0a-9ae5-4c81-95c4-fab4eaaedb07" />
 
